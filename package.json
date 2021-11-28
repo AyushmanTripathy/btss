@@ -1,0 +1,16 @@
+{
+  "name": "btss",
+  "version": "1.1.0",
+  "description": "basic terminal string styling",
+  "main": "btss.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "string",
+    "styling"
+  ],
+  "author": "AyushmanTripathy",
+  "license": "MIT"
+}
