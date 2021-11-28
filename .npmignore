@@ -1,3 +1,4 @@
-./builder.js
-./.npmrc
-./test.js
+*
+
+btss.js
+package.json

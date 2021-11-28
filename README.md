@@ -1,6 +1,6 @@
 # BTSS
 
-#### Basic Terminal String Styling
+#### Basic Terminal String Styling in <2kb
 
 #### Text decorations
 
