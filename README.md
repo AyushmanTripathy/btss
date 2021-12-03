@@ -1,13 +1,15 @@
 # BTSS
 
-#### Basic Terminal String Styling in <2kb
+#### Basic Terminal String Styling in <5kb
+
+install - `npm i btss`
 
 #### Text decorations
 
 example -
 
 ```js
-import { dim } from "dim";
+import { dim } from "btss";
 dim("this text will be dimmed");
 ```
 1. reset
