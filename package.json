@@ -1,6 +1,6 @@
 {
   "name": "btss",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "basic terminal string styling",
   "main": "btss.js",
   "type": "module",

@@ -13,9 +13,9 @@ import { dim } from "btss";
 dim("this text will be dimmed");
 ```
 1. reset
-1. bright
-1. dim
-1. underscore
+1. bold
+1. grey
+1. underline
 1. blink
 1. reverse
 1. hidden

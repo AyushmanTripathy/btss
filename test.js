@@ -1,6 +1,6 @@
 import * as btss from "./btss.js";
 
-const colors = "blink dim underscore hidden reverse bright"
+const colors = "blink grey underline hidden reverse bold"
 const fg = "black red yellow blue green magenta cyan white crimson"
 
 for(const fun of colors.split(" "))
