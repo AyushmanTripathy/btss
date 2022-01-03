@@ -9,8 +9,8 @@ install - `npm i btss`
 example -
 
 ```js
-import { dim } from "btss";
-dim("this text will be dimmed");
+import { grey } from "btss";
+grey("this text will be grey");
 ```
 1. reset
 1. bold
